@@ -39,7 +39,8 @@ function App() {
                 'inland': [60, 120],
                 'package': [120, 180],
                 'bi': [180, 240],
-                'reinsurance': [240, 300]
+                'reinsurance': [240, 300],
+                'ox': [300, 400]
             };
             const range = ranges[theme];
             if (range) {

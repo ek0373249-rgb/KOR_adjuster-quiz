@@ -22,6 +22,7 @@ function Home({ startQuiz }) {
         { id: 'package', name: '패키지보험', icon: '📦', desc: '121~180번 문항' },
         { id: 'bi', name: '기업휴지보험', icon: '⏳', desc: '181~240번 문항' },
         { id: 'reinsurance', name: '재보험', icon: '🤝', desc: '241~300번 문항' },
+        { id: 'ox', name: 'OX 특화 문제', icon: '📝', desc: '301~400번 문항' },
     ];
 
     const subjects = [
